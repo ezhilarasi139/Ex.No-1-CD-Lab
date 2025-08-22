@@ -73,7 +73,7 @@ int main() {
 
 	for (i = 0; i < x; i++) {
 		if (srch == d[i]) {
-			printf("Symbol Found at Address: %p\n", (void*)&d[i]);
+			printf("Symbol %c Found at Address: %p\n", srch,(void*)&d[x]);
 			flag = 1;
 			break;
 		}
@@ -88,7 +88,8 @@ int main() {
 
 # OUTPUT:
 
-<img width="822" height="323" alt="Screenshot 2025-08-22 103415" src="https://github.com/user-attachments/assets/098c0eaa-69c2-455b-9651-394912c44709" />
+<img width="817" height="318" alt="image" src="https://github.com/user-attachments/assets/f4c01546-7d60-4505-9ac4-fd7a058fff23" />
+
 
 <img width="822" height="325" alt="image" src="https://github.com/user-attachments/assets/2ef2a532-6096-4130-93d3-677e042cfd26" />
 

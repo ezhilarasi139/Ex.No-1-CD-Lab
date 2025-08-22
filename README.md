@@ -90,6 +90,9 @@ int main() {
 
 <img width="822" height="323" alt="Screenshot 2025-08-22 103415" src="https://github.com/user-attachments/assets/098c0eaa-69c2-455b-9651-394912c44709" />
 
+<img width="822" height="325" alt="image" src="https://github.com/user-attachments/assets/2ef2a532-6096-4130-93d3-677e042cfd26" />
+
+
 # RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
